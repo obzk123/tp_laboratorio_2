@@ -11,18 +11,20 @@ namespace Entidades
     /// </summary>
     public abstract class Vehiculo
     {
+        private EMarca marca;
+        private string chasis;
+        private ConsoleColor color;
+
         public enum EMarca
         {
             Chevrolet, Ford, Renault, Toyota, BMW, Honda, HarleyDavidson
         }
+
         public enum ETamanio
         {
             Chico, Mediano, Grande
         }
 
-        EMarca marca;
-        string chasis;
-        ConsoleColor color;
 
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
@@ -42,12 +44,7 @@ namespace Entidades
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("CHASIS: {0}\r\n", this.chasis);
-            sb.AppendFormat("MARCA: {0}\r\n", this.marca.ToString());
-            sb.AppendFormat("COLOR: {0}\r\n", this.color.ToString());
-            sb.AppendLine("---------------------");
-            return sb.ToString();
+            return (string)this;
         }
 
         public static explicit operator string(Vehiculo p)
