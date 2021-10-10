@@ -17,3 +17,9 @@ C:\Users\octav\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\octav\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\octav\Desktop\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\octav\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\bin\Debug\Entidades.dll
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\obj\Debug\Entidades.dll
+C:\Users\octav\Desktop\Trabajo Practico 2\Entidades\obj\Debug\Entidades.pdb

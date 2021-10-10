@@ -31,3 +31,13 @@ C:\Users\octav\Desktop\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\octav\Desktop\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\octav\Desktop\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\octav\Desktop\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\bin\Debug\Entidades.dll
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.exe
+C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.pdb
