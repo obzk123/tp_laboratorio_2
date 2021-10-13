@@ -41,3 +41,13 @@ C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CoreCompi
 C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.exe
 C:\Users\octav\Desktop\Trabajo Practico 2\TP-02\obj\Debug\TP-02.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe.config
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\bin\Debug\TP-02.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\bin\Debug\Entidades.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\bin\Debug\Entidades.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\obj\Debug\TP-02.exe
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 2\TP-02\obj\Debug\TP-02.pdb
