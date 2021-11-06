@@ -1,0 +1,6 @@
+Nombre PJ G E P GF GC DG Pts
+River Plate,0,0,0,0,0,0,0,0
+Boca Juniors,0,0,0,0,0,0,0,0
+Aldosivi,0,0,0,0,0,0,0,0
+Racing,0,0,0,0,0,0,0,0
+San Lorenzo,0,0,0,0,0,0,0,0

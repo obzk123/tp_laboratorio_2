@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqEzq25Ffi64ZhDK37ae7g5kf3N2/pSqbCBOWb0iogZuRAgYMCKDKlEP+r+1PH+YC/d7BD5q3j+uv/XPxOhuaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 3\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\octav\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
