@@ -16,11 +16,24 @@ namespace Entidades
         private int golesEnContra;
 
         #region Constructores
+
+        /// <summary>
+        /// Constructor vacio
+        /// </summary>
         public Equipo()
         {
 
         }
-
+        
+        /// <summary>
+        /// Constructor para asignar los atributos
+        /// </summary>
+        /// <param name="nombre"></param> 
+        /// <param name="ganados"></param>
+        /// <param name="empatados"></param>
+        /// <param name="perdidos"></param>
+        /// <param name="golesAFavor"></param>
+        /// <param name="golesEnContra"></param>
         public Equipo(string nombre, int ganados, int empatados, int perdidos, int golesAFavor, int golesEnContra)
         {
             this.Nombre = nombre;
@@ -33,6 +46,10 @@ namespace Entidades
         #endregion
 
         #region Propiedades
+
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo nombre
+        /// </summary>
         public string Nombre
         {
             get
@@ -45,6 +62,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar un valor int para saber los Partidos Jugados
+        /// </summary>
         public int PartidosJugados
         {
             get
@@ -52,6 +72,10 @@ namespace Entidades
                 return this.Ganados + this.Empatados + this.Perdidos;
             }
         }
+
+        /// <summary>
+        /// Propiedad que nos permite retornar un valor int para saber los Puntos
+        /// </summary>
         public int Puntos
         {
             get
@@ -60,6 +84,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo golesAFavor
+        /// </summary>
         public int GolesAFavor
         {
             get
@@ -72,6 +99,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo golesEnContra
+        /// </summary>
         public int GolesEnContra
         {
             get
@@ -84,6 +114,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar un int con la diferencia de goles a favor y en contra
+        /// </summary>
         public int Diferencia
         {
             get
@@ -92,6 +125,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo partidosGanados
+        /// </summary>
         public int Ganados
         {
             get
@@ -104,6 +140,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo partidosEmpatados
+        /// </summary>
         public int Empatados
         {
             get
@@ -116,6 +155,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite retornar y setear el atributo partidosPerdidos
+        /// </summary>
         public int Perdidos
         {
             get
@@ -131,6 +173,10 @@ namespace Entidades
 
         #region Metodos
 
+        /// <summary>
+        /// Una sobreescritura del metodo ToString para obtener todos los datos del Equipo y retornarno en un string
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -160,6 +206,13 @@ namespace Entidades
         #endregion
 
         #region Operadores
+        
+        /// <summary>
+        /// Operador que compara dos equipos por su nombre retorna true si ambos nombres son iguales
+        /// </summary>
+        /// <param name="e1"></param>
+        /// <param name="e2"></param>
+        /// <returns></returns>
         public static bool operator ==(Equipo e1, Equipo e2)
         {
             if(e1.Nombre == e2.Nombre)
@@ -169,11 +222,24 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Operador que compara dos equipos por su nombre pero retorna true si no son iguales y true si son iguales
+        /// </summary>
+        /// <param name="e1"></param>
+        /// <param name="e2"></param>
+        /// <returns></returns>
         public static bool operator !=(Equipo e1, Equipo e2)
         {
             return !(e1 == e2);
         }
 
+        /// <summary>
+        /// Operador que compara dos equipos a través de sus puntos en caso de ser iguales compara por su diferencia
+        /// retorna true si el e1 es mayor a e2 o false en caso contrario
+        /// </summary>
+        /// <param name="e1"></param>
+        /// <param name="e2"></param>
+        /// <returns></returns>
         public static bool operator >(Equipo e1, Equipo e2)
         {
             if(e1.Puntos > e2.Puntos || e1.Puntos == e2.Puntos && e1.Diferencia > e2.Diferencia)
@@ -183,10 +249,19 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Operador que compara dos equipos a través de sus puntos en caso de ser iguales compara por su diferencia
+        /// retorna true si el e2 es mayor a e1 o false en caso contrario
+        /// </summary>
+        /// <param name="e1"></param>
+        /// <param name="e2"></param>
+        /// <returns></returns>
         public static bool operator <(Equipo e1, Equipo e2)
         {
             return !(e1 > e2);
         }
+
+
         #endregion
 
     }

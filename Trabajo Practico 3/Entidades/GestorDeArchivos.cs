@@ -12,6 +12,13 @@ namespace Entidades
 {
     public class GestorDeArchivos : IArchivos<Torneo>
     {
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite abrir un archivo en formato JSON,
+        /// retorna un torneo nuevo con los equipos que se leeyeron del archivo
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="torneo"></param>
+        /// <returns></returns>
         public Torneo AbrirJSON(string path, Torneo torneo)
         {
             string archivoTXT = String.Empty;
@@ -47,6 +54,13 @@ namespace Entidades
             
         }
 
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite abrir un archivo en formato txt,
+        /// retorna un torneo nuevo con los equipos que se leeyeron del archivo
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="torneo"></param>
+        /// <returns></returns>
         public Torneo AbrirTxt(string path, Torneo torneo)
         {
             int ganados;
@@ -115,6 +129,13 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite abrir un archivo en formato XML,
+        /// retorna un torneo nuevo con los equipos que se leeyeron del archivo
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="torneo"></param>
+        /// <returns></returns>
         public Torneo AbrirXML(string path, Torneo torneo)
         {
             try
@@ -148,6 +169,14 @@ namespace Entidades
             return torneo;
         }
 
+
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite guardar un archivo en formato JSON,
+        /// retorna un bool, true si pudo guardar o false en caso contrario
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         public bool GuardarJSON(string path, Torneo dato)
         {
             try
@@ -190,6 +219,13 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite guardar un archivo en formato txt,
+        /// retorna un bool, true si pudo guardar o false en caso contrario
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         public bool GuardarTxt(string path, Torneo dato)
         {
             try
@@ -235,6 +271,13 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Este metodo es una implementacion de la interfaz IArchivos y nos permite guardar un archivo en formato XML,
+        /// retorna un bool, true si pudo guardar o false en caso contrario
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         public bool GuardarXML(string path, Torneo dato)
         {
             try

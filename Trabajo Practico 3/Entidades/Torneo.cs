@@ -19,6 +19,13 @@ namespace Entidades
         private int capacidadMaxima;
 
         #region Constructores
+
+        /// <summary>
+        /// Un constructor que nos permite inicializar la lista de equipos, y asignar un valor a los atributos
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="cantidadDeFechas"></param>
+        /// <param name="capacidadMaxima"></param>
         public Torneo(string nombre, int cantidadDeFechas, int capacidadMaxima)
         {
             this.nombre = nombre;
@@ -30,6 +37,9 @@ namespace Entidades
         #endregion
 
         #region Propiedades
+        /// <summary>
+        /// Propiedad que nos permite obtener y setear la lista de equipos
+        /// </summary>
         public List<Equipo> Equipos
         {
             get
@@ -42,6 +52,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite obtener y setear el atributo nombre
+        /// </summary>
         public string Nombre
         {
             get
@@ -54,6 +67,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite obtener y setear el atributo fechaActual
+        /// </summary>
         public int FechaActual
         {
             get
@@ -66,6 +82,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que nos permite obtener y setear el atributo cantidadDeFechas
+        /// </summary>
         public int CantidadDeFechas
         {
             get
@@ -77,7 +96,10 @@ namespace Entidades
                 this.cantidadDeFechas = value;
             }
         }
-        
+
+        /// <summary>
+        /// Propiedad que nos permite obtener y setear el atributo capacidadMaxima
+        /// </summary>
         public int CapacidadMaxima
         {
             get
@@ -94,6 +116,13 @@ namespace Entidades
 
         #region Metodos
 
+        /// <summary>
+        /// Este metodo recibe un string para buscar en el atributo nombre de un equipo recorriendo de la lista de equipos
+        /// en caso que el nombre del equipo coinsida con el parametro, retorna la ubicacion del equipo de la lista, en caso
+        /// contrario retorna -1
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <returns></returns>
         public int BuscarEquipo(string nombre)
         {
             for(int i = 0; i < this.Equipos.Count; i++)
@@ -106,6 +135,11 @@ namespace Entidades
             return -1;
         }
 
+
+        /// <summary>
+        /// Reccore la lista de equipos y los muestra utilizando la sobrecarga ToString de equipos, retorna la lista entera en un string
+        /// </summary>
+        /// <returns></returns>
         public string MostrarEquipos()
         {
             StringBuilder sb = new StringBuilder();
@@ -119,6 +153,11 @@ namespace Entidades
             
         }
 
+        /// <summary>
+        /// Avanza una fecha del torneo aumentando en 1 la fechaActual y agregandole golesEnContra, GolesAFavor, victoria, derrota o empate
+        /// a cada equipo, retorna true si es posible avanzar o false en caso contrario
+        /// </summary>
+        /// <returns></returns>
         public bool AvanzarTorneo()
         {
             if (this.fechaActual < this.CantidadDeFechas && this.Equipos.Count > 1)
@@ -156,6 +195,9 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Setea la fechaActual a 0 y todos los atributos de los equipos de la lista equipos a 0, manteniendo solo el nombre del equipo
+        /// </summary>
         public void ResetearTorneo()
         {
             this.fechaActual = 0;
@@ -169,6 +211,12 @@ namespace Entidades
             }
         }
         
+
+        /// <summary>
+        /// Sobreecarga el metodo ToString para mostrar el nombre, cantidad de equipos, fecha actual y cantidad de fechas de torneo
+        /// ademas recorre la lista de equipos para mostrarlos con la sobreecarga de su metodo ToString, retorna la lista en un string
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -184,6 +232,13 @@ namespace Entidades
         #endregion
 
         #region Operadores
+
+        /// <summary>
+        /// Agrega un equipo al torneo, si es que este no esta en el torneo, retorna true si lo pudo agregar o false en caso contrario
+        /// </summary>
+        /// <param name="t"></param>
+        /// <param name="e"></param>
+        /// <returns></returns>
         public static bool operator +(Torneo t, Equipo e)
         {
             if(t.CapacidadMaxima > t.Equipos.Count)
@@ -201,6 +256,12 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Quita un equipo del torneo, en caso de que este se encuentre. Retorna true si pudo o false en caso contrario
+        /// </summary>
+        /// <param name="t"></param>
+        /// <param name="e"></param>
+        /// <returns></returns>
         public static bool operator -(Torneo t, Equipo e)
         {
             foreach(Equipo aux in t.Equipos)
