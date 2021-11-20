@@ -1,0 +1,7 @@
+Nombre Torneo Fecha Actual Fecha Maxima Cantidad de equipos maximos
+Torneo Txt,0,10,10
+Nombre PJ G E P GF GC DG Pts
+River,0,0,0,0,0,0,0,0
+Boca,0,0,0,0,0,0,0,0
+San Lorenzo,0,0,0,0,0,0,0,0
+Racing,0,0,0,0,0,0,0,0

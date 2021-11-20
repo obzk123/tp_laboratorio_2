@@ -1,0 +1,66 @@
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Entidades.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormPrincipal.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormEquipos.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Properties.Resources.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormTorneo.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormComparar.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.frmAvanzarFechas.resources
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Clases\2° Cuatrimestre\Programacion\Trabajos Practicos\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormComparar.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormEquipos.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormPrincipal.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormTorneo.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.frmAvanzarFechas.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\octav\Desktop\asd\Trabajo Practico 3\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
