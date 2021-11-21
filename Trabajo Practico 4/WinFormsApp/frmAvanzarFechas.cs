@@ -54,7 +54,6 @@ namespace WinFormsApp
                 this.tokenSource.Cancel();
                 this.btnDetener.Text = "Continuar";
                 this.isRunning = false;
-                //this.ControlBox = true;
             }
             else
             {
@@ -62,7 +61,6 @@ namespace WinFormsApp
                 this.AvanzarFechas();
                 this.btnDetener.Text = "Detener";
                 this.isRunning = true;
-                //this.ControlBox = false;
             }
             
         }

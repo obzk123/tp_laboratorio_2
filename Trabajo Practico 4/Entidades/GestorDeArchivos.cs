@@ -182,8 +182,6 @@ namespace Entidades
             {
                 throw new ExceptionXml("Error al deserealizar el archivo xml", "AbrirXml", "Torneo");
             }
-
-            
         }
 
 

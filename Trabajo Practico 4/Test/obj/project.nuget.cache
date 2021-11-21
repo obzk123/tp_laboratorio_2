@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ApUUr/ID6E2Z81w2KerLgz8zCK6EtjjOW8GsGDvERfKz2aYs4eQcL0FPVihiB/3OOnwXIIjbJBYRFoTGjf+hdQ==",
+  "dgSpecHash": "wIu3ncuLZT/Qzj40zGQS5I8WkF8Vlx1PBsxRQBylfqx1cX6Y16Wj/wkNv8a6vW4YjL34UBob0domu4xBXrdbSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Test\\Test.csproj",
+  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

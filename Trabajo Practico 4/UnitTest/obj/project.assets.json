@@ -6264,11 +6264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\UnitTest\\UnitTest.csproj",
+      "projectPath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\octav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\UnitTest\\obj\\",
+      "outputPath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\octav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6285,8 +6285,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Entidades\\Entidades.csproj"
+            "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\Entidades.csproj"
             }
           }
         }

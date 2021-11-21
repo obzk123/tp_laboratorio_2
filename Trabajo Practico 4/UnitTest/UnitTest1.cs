@@ -48,7 +48,7 @@ namespace UnitTest
             Equipo equipoA = new Equipo("Racing", 11, 2, 3, 22, 5);
             Equipo equipoB = new Equipo("Estudiantes", 10, 3, 0, 10, 5);
             
-            Assert.IsTrue(equipoA > equipoB);
+            Assert.IsTrue(equipoA > equipoB == 1);
         }
 
         [TestMethod]
@@ -57,7 +57,7 @@ namespace UnitTest
             Equipo equipoA = new Equipo("Racing", 11, 2, 3, 22, 5);
             Equipo equipoB = new Equipo("Estudiantes", 10, 3, 0, 10, 5);
 
-            Assert.IsTrue(equipoB < equipoA);
+            Assert.IsTrue(equipoB < equipoA == -1);
         }
 
         [TestMethod]
@@ -84,7 +84,7 @@ namespace UnitTest
         {
             Torneo nuevoTorneo = new Torneo("Primera Divison", 10, 10);
             GestorDeArchivos gda = new GestorDeArchivos();
-            nuevoTorneo = gda.AbrirTxt("PruebaDeFalla.txt", nuevoTorneo);
+            nuevoTorneo = gda.AbrirTxt("PruebaDeFalla.txt");
             
         }
 
@@ -94,7 +94,7 @@ namespace UnitTest
         {
             Torneo nuevoTorneo = new Torneo("Primera Divison", 10, 10);
             GestorDeArchivos gda = new GestorDeArchivos();
-            nuevoTorneo = gda.AbrirJSON("PruebaDeFalla.json", nuevoTorneo);
+            nuevoTorneo = gda.AbrirJSON("PruebaDeFalla.json");
         }
 
         [TestMethod]
@@ -103,7 +103,7 @@ namespace UnitTest
         {
             Torneo nuevoTorneo = new Torneo("Primera Divison", 10, 10);
             GestorDeArchivos gda = new GestorDeArchivos();
-            nuevoTorneo = gda.AbrirXML("PruebaDeFalla.xml", nuevoTorneo);
+            nuevoTorneo = gda.AbrirXML("PruebaDeFalla.xml");
         }
 
         [TestMethod]

@@ -125,9 +125,6 @@ namespace Entidades
         #endregion
 
         #region Metodos
-
-
-
         public void OrdenarEquipos()
         {
             Equipo aux;
@@ -235,12 +232,11 @@ namespace Entidades
                     }
                 }else
                 {
-                    return true;
+                    return false;
                 }
                 Thread.Sleep(500);
             } while (fechaAvanzar != this.FechaActual && !token.IsCancellationRequested);
-
-            return false;
+            return true;
         }
 
         /// <summary>

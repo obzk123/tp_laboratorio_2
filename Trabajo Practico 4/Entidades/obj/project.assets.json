@@ -496,11 +496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\octav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\Entidades\\obj\\",
+      "outputPath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\octav\\AppData\\Roaming\\NuGet\\NuGet.Config",

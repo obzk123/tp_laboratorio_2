@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGGyuCqmBj4Ztx1vPAUC1Cnp+VUOa2fTwZJszGFmVRuM+avhyYlSefYkvyABAVORFmxCdjSh+UUdue7HUuxfdQ==",
+  "dgSpecHash": "rMlMxpDQ9BljdxX3SqDwPqCGBxXCaH6BmuhfCl4rODjlareUGsqYppYnzeElf1oF92TkGZZvTeudrKXtHbjFuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\octav\\Desktop\\asd\\Trabajo Practico 3\\WinFormsApp\\WinFormsApp.csproj",
+  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\WinFormsApp\\WinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
