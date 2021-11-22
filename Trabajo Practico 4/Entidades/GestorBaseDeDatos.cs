@@ -16,10 +16,17 @@ namespace Entidades
 
         public GestorBaseDeDatos(string stringConnection)
         {
-            this.sqlConnection = new SqlConnection(stringConnection);
-            this.sqlCommand = new SqlCommand();
-            this.sqlCommand.Connection = sqlConnection;
-            this.sqlCommand.CommandType = System.Data.CommandType.Text;
+            try
+            {
+                this.sqlConnection = new SqlConnection(stringConnection);
+                this.sqlCommand = new SqlCommand();
+                this.sqlCommand.Connection = sqlConnection;
+                this.sqlCommand.CommandType = System.Data.CommandType.Text;
+            }
+            catch(Exception ex)
+            {
+                throw new ExceptionSQL("Error al instanciar la base de datos", ex);
+            }
         }
 
         public T Leer()

@@ -220,6 +220,13 @@ namespace Entidades
             return false;
         }
 
+
+        /// <summary>
+        /// Avanza fechas hasta las pasadas por parametros o si es cancelado a través del token
+        /// </summary>
+        /// <param name="fechaAvanzar"></param>
+        /// <param name="token"></param>
+        /// <returns></returns>
         public bool AvanzarHasta(int fechaAvanzar, CancellationToken token)
         {
             do
