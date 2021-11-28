@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD/qXs59eycn+bSMVoVlWfZ9WP6lsjfLNeZFOm1HnOTDM61ORpQal40JU+5+XTQF7tsNSpMea7MppqkitCD4zg==",
+  "dgSpecHash": "sGyroYxrRSpzf2h9a5IlAcJv3j15mFCqCc4esgQUyR9dqENwav5AXDFkbrczujrZ5Wv2r19UTHKtwFkF1iwarA==",
   "success": true,
-  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\Entidades\\Entidades.csproj",
+  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\RecuperatoriosTP\\Trabajo Practico 4\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

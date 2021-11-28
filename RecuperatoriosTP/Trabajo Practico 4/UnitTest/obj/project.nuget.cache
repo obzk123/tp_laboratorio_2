@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNv2jIDk8ScMxeAYXQpowURghAyoYWWi79X2N4aVTcFFBNTkZAAAn+GQdF4/DHnhd4+jH0wKg3dyJL4uD9ZGsA==",
+  "dgSpecHash": "yaWk0mjFJWwHeUV92f7g/I0R0ZEs3FmVFsNWDmLpXb4CIenc1NgXNjA/8O4HiE+JQvvISDAEV0CwaFqwR1zreQ==",
   "success": true,
-  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\Trabajo Practico 4\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "D:\\Clases\\2° Cuatrimestre\\Programacion\\Trabajos Practicos\\RecuperatoriosTP\\Trabajo Practico 4\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\octav\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\octav\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
